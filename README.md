@@ -14,6 +14,26 @@ Responsive Design: The app is fully responsive, adapting to both mobile and desk
 Pagination: Browse through a list of Pokémon with pagination support.
 Error Handling: Gracefully handle errors such as invalid Pokémon names or API errors.
 
+Installation
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/pokedex-app.git
+cd pokedex-app
+Install the dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm start
+The app will be available at http://localhost:3000.
 
 
 
