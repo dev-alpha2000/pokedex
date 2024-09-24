@@ -35,5 +35,22 @@ Copy code
 npm start
 The app will be available at http://localhost:3000.
 
+Usage
+Search Pokémon: Use the search bar to enter a Pokémon's name or ID to fetch its details.
+View Pokémon Details: Clicking on a Pokémon card will show more information about its abilities, stats, type, and evolutions.
+Pagination: Browse through a list of Pokémon with the pagination feature.
+Error Handling: Invalid searches or failed API requests will display appropriate error messages.
+
+Example
+When you open the app:
+
+A list of Pokémon will be displayed.
+You can search for Pokémon by name or ID and view detailed information about them.
+The app includes pagination to browse through all available Pokémon.
+Dependencies
+React: Frontend framework for building the UI.
+Axios: For making API requests to the PokéAPI.
+CSS or Styled Components: For styling the app.
+
 
 
